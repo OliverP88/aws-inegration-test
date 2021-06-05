@@ -1,6 +1,6 @@
 <template>
   <div class="p-4 mx-auto flex-col">
-    <h1>Articles:</h1>
+    <h1>Articles test:</h1>
     <NuxtLink
       v-for="(link, i) of articles"
       :key="i"
