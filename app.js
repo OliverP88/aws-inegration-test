@@ -19,7 +19,7 @@ app.get('/productsTest', (req, res) => {
   ])
 })
 
-app.get('/products', (req, res) => {
+app.get('/api/products', (req, res) => {
   res.send([     
   {
     "id": 1,
