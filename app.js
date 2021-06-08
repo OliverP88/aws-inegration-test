@@ -23,7 +23,7 @@ app.get('/api/products', (req, res) => {
   res.send([     
   {
     "id": 1,
-    "title": "Getting started",
+    "title": "Getting starteda",
     "description": "Empower your NuxtJS application with @nuxt/content module: write in a content/ directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS.",
     "heroImg": "",
     "img": "https://hellolive.tv/img/img_meta.png"
